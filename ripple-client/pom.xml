@@ -28,4 +28,11 @@
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
+    <distributionManagement>
+        <repository>
+            <id>localRepository</id>
+            <!--<url>file:D:/Workspace/Repository</url>-->
+            <url>file:E:/ScottLiu/.m2/repository1</url>
+        </repository>
+    </distributionManagement>
 </project>

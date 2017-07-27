@@ -32,4 +32,11 @@
   <modules>
       <module>ripple-client-java-websocket-transport</module>
   </modules>
+    <distributionManagement>
+        <repository>
+            <id>localRepository</id>
+            <!--<url>file:D:/Workspace/Repository</url>-->
+            <url>file:E:/ScottLiu/.m2/repository1</url>
+        </repository>
+    </distributionManagement>
 </project>
